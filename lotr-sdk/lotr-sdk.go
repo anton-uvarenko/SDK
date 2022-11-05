@@ -1,7 +1,7 @@
 package lotr_sdk
 
 import (
-	"anton.uvarenko/sdk/lotr-sdk/models"
+	"github.com/anton-uvarenko/SDK/lotr-sdk/models"
 	"net/http"
 )
 

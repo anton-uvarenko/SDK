@@ -1,9 +1,9 @@
 package lotr_sdk
 
 import (
-	"anton.uvarenko/sdk/lotr-sdk/helpers"
-	"anton.uvarenko/sdk/lotr-sdk/models"
 	"encoding/json"
+	"github.com/anton-uvarenko/SDK/lotr-sdk/helpers"
+	"github.com/anton-uvarenko/SDK/lotr-sdk/models"
 )
 
 func (c lotrController) GetAllMovies(params ...string) ([]models.Movie, error) {

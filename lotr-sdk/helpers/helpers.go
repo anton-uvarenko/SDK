@@ -1,8 +1,8 @@
 package helpers
 
 import (
-	"anton.uvarenko/sdk/lotr-sdk/constants"
 	"fmt"
+	"github.com/anton-uvarenko/SDK/lotr-sdk/constants"
 	"net/http"
 	"strings"
 )
